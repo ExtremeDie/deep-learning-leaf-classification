@@ -1,4 +1,8 @@
-# leaf_recognition
+# leaf_classification
+
+> Koay Yong Zhuang 1602811
+> Lian Yee Fu 1605136
+> Tan Sze Mei 1603383
 
 A new Flutter project.
 
