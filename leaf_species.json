@@ -1,0 +1,562 @@
+[
+	{
+		"name": "acer_buergerianum_miq",
+		"description": "Acer buergerianum (trident maple; Chinese: 三角枫 san jiao feng) is a species of maple native to eastern China (from Shandong west to southeastern Gansu, south to Guangdong, and southwest to Sichuan), Taiwan and Japan.",
+		"image": "https://www.discoverlife.org/IM/I_EHCP/0034/320/Acer_buergerianum,_Trident_maple,I_EHCP3458.jpg"
+	},
+	{
+		"name": "acer_campestre",
+		"description": "Acer campestre, known as the field maple, is a flowering plant species in the family Sapindaceae. It is native to much of continental Europe, Britain, southwest Asia from Turkey to the Caucasus, and north Africa in the Atlas Mountains. It has been widely planted, and is introduced outside its native range in Europe and areas of USA and Western Australia with suitable climate. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Acer_campestre_in_Appennino2.jpg/330px-Acer_campestre_in_Appennino2.jpg"
+	},
+	{
+		"name": "acer_monspessulanum",
+		"description": "Acer monspessulanum (Montpellier maple) is a species of maple native to the Mediterranean region from Morocco and Portugal in the west, to Turkey, Syria, Lebanon, and Israel in the east, and north to the Jura Mountains in France and the Eifel in Germany.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Acer_monspessulanum_fg02.jpg"
+	},
+	{
+		"name": "acer_negundo",
+		"description": "Acer negundo is a species of maple native to North America. Box elder, boxelder maple, ash-leaved maple, and maple ash are among its common names in the United States; in Canada it is commonly known as Manitoba maple and occasionally as elf maple; in the British Isles it is known as box elder or ashleaf maple.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Acnegundo.jpg/330px-Acnegundo.jpg"
+	},
+	{
+		"name": "acer_opalus",
+		"description": "Acer opalus (Italian maple) is a species of maple native to the hills and mountains of southern and western Europe, from Italy to Spain and north to southern Germany, and also in northwest Africa in Morocco and Algeria. Acer opalus is a medium-sized deciduous tree growing to 20 metres (66 ft) tall, with a trunk up to 1 m diameter. The leaves are glossy green, 7–13 centimetres (2.8–5.1 in) long and 5–16 centimetres (2.0–6.3 in) across, palmately lobed with blunt teeth.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Acer_opalus_leaves_01_by_Line1.JPG/330px-Acer_opalus_leaves_01_by_Line1.JPG"
+	},
+	{
+		"name": "acer_palmatum",
+		"description": "Acer palmatum, commonly known as red emperor maple, palmate maple, Japanese maple or smooth Japanese-maple (Japanese: irohamomiji, イロハモミジ, or momiji, 紅葉), is a species of woody plant native to Japan, Korea, China, eastern Mongolia, and southeast Russia. Many different cultivars of this maple have been selected and they are grown worldwide for their large variety of attractive forms, leaf shapes, and spectacular colors.",
+		"image": "http://www.southseedbank.com/wp-content/uploads/2018/09/Acer-palmatum-var-palmatum.jpg"
+	},
+	{
+		"name": "acer_platanoides",
+		"description": "Acer platanoides, also known as Norway maple, is a species of maple native to eastern and central Europe and western Asia, from France east to Russia, north to southern Scandinavia and southeast to northern Iran. It was brought to North America in the mid-1700s as a shade tree. It is a member of the soapberry and lychee family.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Spitz-Ahorn%28mbo%29.jpg/330px-Spitz-Ahorn%28mbo%29.jpg"
+	},
+	{
+		"name": "acer_pseudoplatanus",
+		"description": "Acer pseudoplatanus, known as the sycamore in the United Kingdom and the sycamore maple in the United States, is a flowering plant species in the soapberry and lychee family Sapindaceae. It is a large deciduous, broad-leaved tree, tolerant of wind and coastal exposure. It is native to Central Europe and Western Asia, from France eastwards to Ukraine, northern Turkey and the Caucasus and southwards in the mountains of northern Spain and Italy. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Acer_pseudoplatanus_005.jpg/330px-Acer_pseudoplatanus_005.jpg"
+	},
+	{
+		"name": "aesculus_chinensis",
+		"description": "Aesculus chinensis, the Chinese horse chestnut (Chinese:七叶树 qi ye shu), is a tree species in the genus Aesculus found in eastern Asia. The seed contains triterpenoid saponins and flavonoids, such as aescuflavoside and aescuflavoside A, which are glycosides of quercetin.",
+		"image": "https://i.pinimg.com/originals/8b/1b/5b/8b1b5ba912452a56a332d524d853d62d.jpg"
+	},
+	{
+		"name": "aesculus_hippocastanum",
+		"description": "Aesculus hippocastanum is a species of flowering plant in the soapberry and lychee family Sapindaceae. It is a large deciduous, synoecious (hermaphroditic-flowered) tree, commonly known as horse-chestnut or conker tree. Aesculus hippocastanum is a large tree, growing to about 39 metres (128 ft) tall with a domed crown of stout branches; on old trees the outer branches are often pendulous with curled-up tips.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Illustration_Aesculus_hippocastanum0_clean.jpg/330px-Illustration_Aesculus_hippocastanum0_clean.jpg"
+	},
+	{
+		"name": "ailanthus_altissima",
+		"description": "Ailanthus altissima /eɪˈlænθəs ælˈtɪsɪmə/, commonly known as tree of heaven, ailanthus, varnish tree, or in Chinese as chouchun (Chinese: 臭椿; pinyin: chòuchūn; literally: 'foul smelling tree'), is a deciduous tree in the family Simaroubaceae. It is native to both northeast and central China, as well as Taiwan.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/G%C3%B6tterbaum_%28Ailanthus_altissima%29.jpg/330px-G%C3%B6tterbaum_%28Ailanthus_altissima%29.jpg"
+	},
+	{
+		"name": "albizia_julibrissin",
+		"description": "Albizia julibrissin, the Persian silk tree or pink silk tree, is a species of tree in the family Fabaceae, native to southwestern and eastern Asia. The genus is named after the Italian nobleman Filippo degli Albizzi, who introduced it to Europe in the mid-18th century, and it is sometimes incorrectly spelled Albizzia.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/20130801Seidenbaum_Hockenheim01_crop.jpg/330px-20130801Seidenbaum_Hockenheim01_crop.jpg"
+	},
+	{
+		"name": "alnus_glutinosa",
+		"description": "Alnus glutinosa, the common alder, black alder, European alder or just alder, is a species of tree in the family Betulaceae, native to most of Europe, southwest Asia and northern Africa. It thrives in wet locations where its association with the bacterium Frankia alni enables it to grow in poor quality soils. It is a medium size, short-lived tree growing to a height of up to 30 metres (100 ft).",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/20120904Schwarzerle_Reilingen01.jpg/330px-20120904Schwarzerle_Reilingen01.jpg"
+	},
+	{
+		"name": "alnus_incana",
+		"description": "Alnus incana, the grey alder or speckled alder, is a species of alder with a wide range across the cooler parts of the Northern Hemisphere. It is a small to medium-sized tree 15–20 m (49–66 ft) tall with smooth grey bark even in old age, its life span being a maximum of 60 to 100 years.",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxd_5MKCl0uhQyBmBleoRQH4rg88L1KUVCANO3_sTgW59iLgx"
+	},
+	{
+		"name": "arbutus_unedo",
+		"description": "Arbutus unedo, the strawberry tree, is an evergreen shrub or small tree in the family Ericaceae, native to the Mediterranean region and western Europe north to western France and Ireland.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Arbouses.jpg/330px-Arbouses.jpg"
+	},
+	{
+		"name": "berberis_anhweiensis_ahrendt",
+		"description": "Berberis, commonly known as barberry, is a large genus of deciduous and evergreen shrubs from 1–5 m (3.3–16.4 ft) tall, found throughout temperate and subtropical regions of the world (apart from Australia). Species diversity is greatest in South America and Asia; Europe, Africa and North America have native species as well.",
+		"image": "https://image.tcmwiki.com/image/%E5%AE%89%E5%BE%BD%E5%B0%8F%E6%AA%97/%E5%AE%89%E5%BE%BD%E5%B0%8F%E6%AA%97.jpg"
+	},
+	{
+		"name": "betula_pendula",
+		"description": "Betula pendula, commonly known as silver birch, warty birch, European white birch, or East Asian white birch, is a species of tree in the family Betulaceae, native to Europe and parts of Asia, though in southern Europe, it is only found at higher altitudes. Its range extends into Siberia, China, and southwest Asia in the mountains of northern Turkey, the Caucasus, and northern Iran.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Betula_pendula_Finland.jpg/330px-Betula_pendula_Finland.jpg"
+	},
+	{
+		"name": "betula_pubescens",
+		"description": "Betula pubescens (syn. Betula alba), commonly known as downy birch and also as moor birch, white birch, European white birch or hairy birch, is a species of deciduous tree, native and abundant throughout northern Europe and northern Asia, growing farther north than any other broadleaf tree.",
+		"image": "http://www.habitas.org.uk/flora/images/small/3829s.jpg"
+	},
+	{
+		"name": "broussonetia_papyrifera",
+		"description": "The paper mulberry (Broussonetia papyrifera, syn. Morus papyrifera L.) is a species of flowering plant in the family Moraceae. It is native to Asia, where its range includes China, Japan, Korea, Indochina, Burma, and India. It is widely cultivated elsewhere and it grows as an introduced species in parts of Europe, the United States, and Africa. Other common names include tapa cloth tree.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Murier.jpg/330px-Murier.jpg"
+	},
+	{
+		"name": "carpinus_betulus",
+		"description": "Carpinus betulus, commonly known as the European or common hornbeam, is a hornbeam native to Western Asia and central, eastern, and southern Europe, including southern England. It requires a warm climate for good growth, and occurs only at elevations up to 600 metres (1,969 ft). It grows in mixed stands with oak, and in some areas beech, and is also a common tree in scree forests. Hornbeam was also known as 'Yoke Elm'.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Carpinus_betulus_-_Hunsr%C3%BCck_001.jpg/330px-Carpinus_betulus_-_Hunsr%C3%BCck_001.jpg"
+	},
+	{
+		"name": "castanea_sativa",
+		"description": "Castanea sativa, or sweet chestnut, is a species of flowering plant in the family Fagaceae, native to Southern Europe and Asia Minor, and widely cultivated throughout the temperate world. A substantial, long-lived deciduous tree, it produces an edible seed, the chestnut, which has been used in cooking since ancient times. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Chestnuts.jpg/330px-Chestnuts.jpg"
+	},
+	{
+		"name": "cedrus_deodara_g_don",
+		"description": "Cedrus deodara, the deodar cedar, Himalayan cedar, or deodar/devdar/devadar/devadaru, is a species of cedar native to the western Himalayas in Eastern Afghanistan, Northern Pakistan (especially in Khyber Pakhtunkhwa) and India (Jammu and Kashmir, Himachal Pradesh, Uttarakhand, Sikkim and, Arunachal Pradesh states and the Darjeeling Region of West Bengal), Southwestern Tibet and Western Nepal, occurring at 1,500–3,200 m (4,921–10,499 ft) altitude.",
+		"image": "https://cdn.shopify.com/s/files/1/0557/0657/products/image_55ef1674-aed1-4e35-9a85-f33407dcbdd0.jpg?v=1537010239"
+	},
+	{
+		"name": "celtis_australis",
+		"description": "Celtis australis, commonly known as the European nettle tree, Mediterranean hackberry, lote tree, or honeyberry, is a deciduous tree native to southern Europe, North Africa, and Asia Minor. The tree was introduced to England in 1796. The tree can grow to 25 m in height, though 10 m is more common in cooler climates.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Illustration_Celtis_australis0.jpg/330px-Illustration_Celtis_australis0.jpg"
+	},
+	{
+		"name": "cercis_chinensis",
+		"description": "Cercis chinensis, the Chinese redbud, (simplified Chinese: 紫荆; traditional Chinese: 紫荊; pinyin: Zĭjīng) is a plant of the Fabaceae family native to China and Japan that grows between 150 to 1,400 metres (490 to 4,590 ft) above sea level. ",
+		"image": "http://www.treeseedonline.com/uploads/1/0/2/3/10233208/s468003859194629765_p317_i3_w360.jpeg"
+	},
+	{
+		"name": "cercis_siliquastrum",
+		"description": "Cercis siliquastrum, commonly known as the Judas tree or Judas-tree, is a small deciduous tree from Southern Europe and Western Asia which is noted for its prolific display of deep pink flowers in spring. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PikiWiki_Israel_3421_Geography_of_Israel.jpg/330px-PikiWiki_Israel_3421_Geography_of_Israel.jpg"
+	},
+	{
+		"name": "chimonanthus_praecox_l",
+		"description": "Chimonanthus praecox, also known as wintersweet or Japanese allspice, is a species of flowering plant in the genus Chimonanthus of the family Calycanthaceae, native to China. It is a vigorous deciduous shrub growing to 4 m (13 ft) tall with an erect trunk and leaves 5–29 cm (2–11 in) long and 2–12 cm (1–5 in) broad.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Wintersweet_Chimonanthus_praecox_Leaves_3264px.jpg/1024px-Wintersweet_Chimonanthus_praecox_Leaves_3264px.jpg"
+	},
+	{
+		"name": "cinnamomum_camphora_j_presl",
+		"description": "Cinnamomum camphora is a species of evergreen tree that is commonly known under the names camphor tree, camphorwood or camphor laurel. Cinnamomum camphora is native to China south of the Yangtze River, Taiwan, southern Japan, Korea, and Vietnam, and has been introduced to many other countries.",
+		"image": "https://farm9.static.flickr.com/8002/7460397754_99ac431ef8.jpg"
+	},
+	{
+		"name": "cinnamomum_japonicum_sieb",
+		"description": "Cinnamomum pedunculatum, commonly known as Japanese cinnamon, is an evergreen tree in the genus Cinnamomum. It is a small- or medium-sized tree up to 15 m (49 ft) tall that occurs in Japan, Korea, Taiwan, and eastern China (Anhui, Fujian, Jiangsu, Jiangxi, and Zhejiang provinces). In China it is under second-class national protection.",
+		"image": "https://cdn.shopify.com/s/files/1/1632/3843/products/product-image-469492170.jpg?v=1546030758"
+	},
+	{
+		"name": "citrus_reticulata_blanco",
+		"description": "Citrus reticulata blanco is also known as mandarin orange or tangerine. Raw fruits cooked in puddings, cakes, confectionery etc. It is sweet and delicious. A thin-skinned fruit with a very pleasant, acidic-sweet flavour. ",
+		"image": "https://indiabiodiversity.org/biodiv/observations//f9e7efa6-4780-4151-bae2-f12a64a6b48c/773.JPG"
+	},
+	{
+		"name": "cornus_mas",
+		"description": "Cornus mas, the Cornelian cherry, European cornel or Cornelian cherry dogwood, is a species of flowering plant in the dogwood family Cornaceae, native to Southern Europe and Southwestern Asia. It is a medium to large deciduous shrub or small tree growing to 5–12 m tall, with dark brown branches and greenish twigs.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CornusMas_Fruits_01.jpg/330px-CornusMas_Fruits_01.jpg"
+	},
+	{
+		"name": "corylus_avellana",
+		"description": "Corylus avellana, the common hazel, is a species of hazel native to Europe and western Asia, from the British Isles south to Iberia, Greece, Turkey and Cyprus, north to central Scandinavia, and east to the central Ural Mountains, the Caucasus, and northwestern Iran.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Corylus_avellana.jpg/330px-Corylus_avellana.jpg"
+	},
+	{
+		"name": "cotinus_coggygria",
+		"description": "Cotinus coggygria, syn. Rhus cotinus, the European smoketree, Eurasian smoketree, smoke tree, smoke bush, Venetian sumach, or dyer's sumach is a species of flowering plant in the family Anacardiaceae, native to a large area from southern Europe, east across central Asia and the Himalayas to northern China. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cotinus_coggygria5.jpg/330px-Cotinus_coggygria5.jpg"
+	},
+	{
+		"name": "crataegus_azarolus",
+		"description": "Crataegus azarolus is a species of hawthorn known by the common names azarole, azerole, and Mediterranean medlar. It is native to the Mediterranean Basin and is a common plant there, growing on sites comparable to those the European common hawthorn grows on. In the Arab countries it is the commonest of the hawthorn species.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hawthorn_in_blossom.jpg/330px-Hawthorn_in_blossom.jpg"
+	},
+	{
+		"name": "crataegus_monogyna",
+		"description": "Juglans regia, the Persian walnut, English walnut, Carpathian walnut, Madeira walnut, or especially in Great Britain, common walnut, is an Old World walnut tree species native to the region stretching from the Balkans eastward to the Himalayas and southwest China. It is widely cultivated across Europe. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Noyer_centenaire_en_automne.JPG/330px-Noyer_centenaire_en_automne.JPG"
+	},
+	{
+		"name": "diospyros_kaki",
+		"description": "Diospyros kaki, also called the persimmon, Oriental persimmon or kaki, is the most widely cultivated species of the genus Diospyros. Although its first botanical description was not published until 1780, the kaki is among the oldest cultivated plants, having been in use in China for more than 2000 years. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kaki_20041002.jpg/330px-Kaki_20041002.jpg"
+	},
+	{
+		"name": "eriobotrya_japonica",
+		"description": "The loquat (Eriobotrya japonica; from Cantonese Chinese: 盧橘; Jyutping: lou4-gwat1) is a species of flowering plant in the family Rosaceae, a native to the cooler hill regions of south-central China. It is also commonly found in Japan, Korea, northern parts of the Philippines, Himachal Pradesh in India, the Pothohar Plateau in Pakistan, and hilly regions in Sri Lanka.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Loquat-0.jpg/330px-Loquat-0.jpg"
+	},
+	{
+		"name": "fagus_sylvatica",
+		"description": "Fagus sylvatica is a large tree, and the nuts are eaten by humans and animals. Slightly toxic to humans if eaten in large quantities due to the tannins and alkaloids they contain.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/European_Beech.jpg"
+	},
+	{
+		"name": "ficus_carica",
+		"description": "Ficus carica is an Asian species of flowering plant in the mulberry family, known as the common fig (or just the fig). It is the source of the fruit also called the fig and as such is an important crop in those areas where it is grown commercially. Native to the Middle East and western Asia, it has been sought out and cultivated since ancient times and is now widely grown throughout the world, both for its fruit and as an ornamental plant.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ficus_carica_L%2C_1771.jpg/330px-Ficus_carica_L%2C_1771.jpg"
+	},
+	{
+		"name": "fraxinus_angustifolia",
+		"description": "Fraxinus angustifolia, the narrow-leafed ash, is a species of Fraxinus native to central and southern Europe, northwest Africa, and southwest Asia. It is a medium-sized deciduous tree growing to 20–30 m tall with a trunk up to 1.5 m diameter. The bark is smooth and pale grey on young trees, becoming square-cracked and knobbly on old trees.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fraxinus_angustifolia_foliage.jpg/330px-Fraxinus_angustifolia_foliage.jpg"
+	},
+	{
+		"name": "fraxinus_excelsior",
+		"description": "Fraxinus excelsior, known as the ash, or European ash or common ash to distinguish it from other types of ash, is a flowering plant species in the olive family Oleaceae. It is native throughout mainland Europe east to the Caucasus and Alborz mountains, and the British Isles which determine its western boundary.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Fraxinus_excelsior.jpg/330px-Fraxinus_excelsior.jpg"
+	},
+	{
+		"name": "fraxinus_ornus",
+		"description": "Fraxinus ornus, the manna ash or South European flowering ash, is a species of Fraxinus native to southern Europe and southwestern Asia, from Spain and Italy north to Austria, Poland and the Czech Republic, and east through the Balkans, Turkey, and western Syria to Lebanon and Armenia.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fraxinus_ornus_JPG2.jpg/330px-Fraxinus_ornus_JPG2.jpg"
+	},
+	{
+		"name": "ginkgo_biloba_l",
+		"description": "Ginkgo biloba L., also popularly known as living fossil, possesses a variety of biological and pharmacological activities. The leaf extract of G. biloba L. (EGb 761) has been used for years to treat age-related memory-deficit problems, including Alzheimer's and dementia. ",
+		"image": "https://www.ornamental-trees.co.uk/images/ginkgo-biloba-tree-p384-1365_medium.jpg"
+	},
+	{
+		"name": "gleditsia_triacanthos",
+		"description": "The honey locust (Gleditsia triacanthos), also known as the thorny locust or thorny honeylocust, is a deciduous tree in the family Fabaceae, native to central North America where it is mostly found in the moist soil of river valleys. Honey locust is highly adaptable to different environments, has been introduced worldwide, and is an aggressive invasive species.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gleditsia_triacanthos_Maryhill_Museum_01.jpg/330px-Gleditsia_triacanthos_Maryhill_Museum_01.jpg"
+	},
+	{
+		"name": "ilex_aquifolium",
+		"description": "Ilex aquifolium (holly, common holly, English holly, European holly, or occasionally Christmas holly), is a species of holly native to western and southern Europe, northwest Africa, and southwest Asia. It is regarded as the type species of the genus Ilex, which by association is also called 'holly'.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Illustration_Ilex_aquifolium0.jpg/330px-Illustration_Ilex_aquifolium0.jpg"
+	},
+	{
+		"name": "ilex_macrocarpa_oliv",
+		"description": "A deciduous tree attaining a height of about 50 ft in the wild and nearing that height in cultivation; young shoots green and glabrous. ",
+		"image": "http://dryades.units.it/dryades/plants/foto/TSB78817.jpg"
+	},
+	{
+		"name": "indigofera_tinctoria_l",
+		"description": "Indigofera tinctoria is distributed throughout the tropics and subtropics of Asia, Africa and the Americas; most of the species occur in Africa and the southern Himalayas.",
+		"image": "https://www.plantstoplant.com/Files/71136/Img/20/Indigofera-himalayensis-Silk-Road-2-zoom.jpg"
+	},
+	{
+		"name": "juglans_nigra",
+		"description": "Juglans nigra, the eastern American black walnut, is a species of deciduous tree in the walnut family, Juglandaceae, native to North America. It grows mostly in riparian zones, from southern Ontario, west to southeast South Dakota, south to Georgia, northern Florida and southwest to central Texas.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Black_Walnut_nut_and_leave_detail.JPG/330px-Black_Walnut_nut_and_leave_detail.JPG"
+	},
+	{
+		"name": "juglans_regia",
+		"description": "Juglans regia, the Persian walnut, English walnut, Carpathian walnut, Madeira walnut, or especially in Great Britain, common walnut, is an Old World walnut tree species native to the region stretching from the Balkans eastward to the Himalayas and southwest China. It is widely cultivated across Europe. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Noyer_centenaire_en_automne.JPG/330px-Noyer_centenaire_en_automne.JPG"
+	},
+	{
+		"name": "kalopanax_septemlobus_koidz",
+		"description": "Kalopanax septemlobus koidz is cultivated as an ornamental tree for the tropical appearance of its large palmate leaves in Europe and North America; despite its tropical looks, it is very hardy, tolerating temperatures down to at least −40 °C (−40 °F). ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Kalopanax-pictus-leaves2.JPG"
+	},
+	{
+		"name": "koelreuteria_paniculata_laxmi",
+		"description": "Koelreuteria paniculata is a medium sized, deciduous tree which despite its common name is native to Eastern Asia. It is tolerant of a lot of urban conditions and also is good on calcareous soil.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Leafage_of_Koelreuteria_paniculata.JPG/800px-Leafage_of_Koelreuteria_paniculata.JPG"
+	},
+	{
+		"name": "laburnum_anagyroides",
+		"description": "Laburnum anagyroides, the common laburnum, golden chain or golden rain, is a species in the subfamily Faboideae, and genus Laburnum. Laburnum alpinum is closely related. It is native to Central and Southern Europe. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Laburnum_anagyroides.jpg/330px-Laburnum_anagyroides.jpg"
+	},
+	{
+		"name": "lagerstroemia_indica_pers",
+		"description": "Lagerstroemia indica is a species in the genus Lagerstroemia in the family Lythraceae, which is native to the Indian Subcontinent (hence the name indica), and also to Southeast Asia, China, Korea and Japan. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2015-11-08_09_37_47_Crape_Myrtle_foliage_during_autumn_along_Old_Ox_Road_%28Virginia_Secondary_State_Route_606%29_in_Sterling%2C_Virginia.jpg/1280px-2015-11-08_09_37_47_Crape_Myrtle_foliage_during_autumn_along_Old_Ox_Road_%28Virginia_Secondary_State_Route_606%29_in_Sterling%2C_Virginia.jpg"
+	},
+	{
+		"name": "laurus_nobilis",
+		"description": "Laurus nobilis is an aromatic evergreen tree or large shrub with green, glabrous smooth leaves, in the flowering plant family Lauraceae. It is native to the Mediterranean region and is used as bay leaf for seasoning in cooking. Its common names include bay tree (esp. United Kingdom), bay laurel, sweet bay, true laurel, Grecian laurel, or simply laurel.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bay_leaf_pair443.jpg/330px-Bay_leaf_pair443.jpg"
+	},
+	{
+		"name": "ligustrum_lucidum_ait_f",
+		"description": "Ligustrum lucidum Ait. f it is an ornamental species commonly grown throuhout the city’s green areas.",
+		"image": "https://www.cabi.org/isc/portfolio/compendia/normal/6668.img"
+	},
+	{
+		"name": "ligustrum_vulgare",
+		"description": "Ligustrum vulgare (wild privet, also sometimes known as common privet or European privet) is a species of Ligustrum native to central and southern Europe, north Africa and southwestern Asia, from Ireland and southwestern Sweden south to Morocco, and east to Poland and northwestern Iran.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Wilde_liguster_%28Ligustrum_vulgare%29.jpg/330px-Wilde_liguster_%28Ligustrum_vulgare%29.jpg"
+	},
+	{
+		"name": "liriodendron_chinense_sarg",
+		"description": "Liriodendron chinense is very similar to the American species, Liriodendron tulipifera, differing in the often slightly larger and more deeply lobed leaves, and in the shorter inner petals in the flowers, which lack the orange pigment of L. tulipifera. The Chinese tulip tree reaches about 40 metres (130 ft) tall.[3] Most of its populations are deciduous, with a semi-evergreen population identified at Mengla, Yunnan.",
+		"image": "https://plants.usda.gov/gallery/large/lich6_001_lhp.jpg"
+	},
+	{
+		"name": "magnolia_grandiflora_l",
+		"description": "Magnolia grandiflora, commonly known as the southern magnolia or bull bay, is a tree of the family Magnoliaceae native to the southeastern United States, from southeastern North Carolina to central Florida, and west to East Texas. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Magnolia_flower_Duke_campus.jpg/1920px-Magnolia_flower_Duke_campus.jpg"
+	},
+	{
+		"name": "mahonia_bealei_carr",
+		"description": "Mahonia bealei (Beale's barberry)[4] is a shrub native to mainland China. The species has sometimes been regarded as the same species as Mahonia japonica, native to Taiwan, but the two differ consistently in certain floral and leaf characters. ",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR52fmfhxfAuRvITgG4Mm0MrzLP9nPMupRsWMMuFxbxA8m1xPyt"
+	},
+	{
+		"name": "malus_sylvestris",
+		"description": "Malus sylvestris, the European crab apple, is a species of the genus Malus, native to Europe. Its scientific name means 'forest apple' and the truly wild tree has thorns. Wild apple has an expanded crown and often appears more like a bush than a tree. It can live 80–100 years and grow up to 10 m tall with trunk diameters of 23–45 cm.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Malus_sylvestris_005.JPG/330px-Malus_sylvestris_005.JPG"
+	},
+	{
+		"name": "manglietia_fordiana_oliv",
+		"description": "Manglietia was the name of a genus of flowering plants in the family Magnoliaceae, with about 40 Asian species listed. The genus is now considered a synonym of the well-known and similar Magnolia.",
+		"image": "http://staging.herbarium.gov.hk/UploadFile/ckfinder/userfiles/images/%E7%B6%A0%E6%A5%A0%20(%E6%9C%A8%E8%93%AE)%20%20Manglietia%20fordiana2.jpg"
+	},
+	{
+		"name": "melia_azedarach",
+		"description": "Melia azedarach, commonly known by many names, including chinaberry tree, Pride of India, bead-tree, Cape lilac, syringa berrytree, Persian lilac, and Indian lilac, white cedar, is a species of deciduous tree in the mahogany family, Meliaceae, that is native to Indomalaya and Australasia.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Melia_azedarach_01434.jpg/330px-Melia_azedarach_01434.jpg"
+	},
+	{
+		"name": "nerium_oleander_l",
+		"description": "Nerium oleander /ˈnɪəriəm ˈoʊliːændər/ is a shrub or small tree in the dogbane family Apocynaceae, toxic in all its parts. It is the only species currently classified in the genus Nerium. It is most commonly known as nerium or oleander, from its superficial resemblance to the unrelated olive Olea.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nerium_oleander_flowers_leaves.jpg/330px-Nerium_oleander_flowers_leaves.jpg"
+	},
+	{
+		"name": "olea_europaea",
+		"description": "The olive, known by the botanical name Olea europaea, meaning 'European olive', is a species of small tree in the family Oleaceae, found in the Mediterranean Basin from Portugal to the Levant, the Arabian Peninsula, and southern Asia as far east as China, as well as the Canary Islands and Réunion.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Olivesfromjordan.jpg/330px-Olivesfromjordan.jpg"
+	},
+	{
+		"name": "osmanthus_fragrans_lour",
+		"description": "Osmanthus fragrans, variously known as sweet osmanthus, sweet olive, tea olive, and fragrant olive, is a species native to Asia from the Himalayas through southern China to Taiwan and southern Japan and southeast Asia as far south as Cambodia and Thailand.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Osmanthus_fragrans_%28orange_flowers%29.jpg"
+	},
+	{
+		"name": "paliurus_spina_christi",
+		"description": "Paliurus spina-christi, commonly known as Jerusalem thorn, garland thorn, Christ's thorn, or crown of thorns, is a species of Paliurus native to the Mediterranean region and southwest and central Asia, from Morocco and Spain east to Iran and Tajikistan. It is a deciduous shrub or small tree growing to 3–4 m tall. The shoots are zig-zagged, with a leaf and two stipular spines (one straight, one curved) on the outside of each kink.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Paliurus_fg01.jpg/330px-Paliurus_fg01.jpg"
+	},
+	{
+		"name": "phillyrea_angustifolia",
+		"description": "Phillyrea Angustifolia has 1-2 meter shrub with slender, slender branches, narrow leaves (4-8 mm wide), linear-lanceolate or lanceolate-acute, entire, with a narrow transparent border, attenuated at the 2 ends, very briefly petiolate, with only protruding dorsal rib.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Phillyrea_angustifolia_g1.jpg/250px-Phillyrea_angustifolia_g1.jpg"
+	},
+	{
+		"name": "phoebe_nanmu_gamble",
+		"description": "Phoebe nanmu is a large, slow growing tree that develops with a long straight trunk ranging from 10 to 40 meters in height, and 50 to 100 cm in diameter. It was used extensively in construction and furniture making because it is highly resistant to decay, is very dense and comes in attractive colours from olive-brown to reddish brown.",
+		"image": "http://lauraceae.myspecies.info/sites/lauraceae.myspecies.info/files/styles/large/public/Litsea_honghoensis_JR41267.jpg?itok=Da3W31U6"
+	},
+	{
+		"name": "phyllostachys_edulis",
+		"description": "Phyllostachys edulis, moso bamboo, or tortoise-shell bamboo, or mao zhu, is a temperate species of giant timber bamboo native to China and Taiwan and naturalised elsewhere, including Japan where it is widely distributed south of Hokkaido. The edulis part of the Latin name refers to its edible shoots.",
+		"image": "https://media.sciencephoto.com/image/c0359538/800wm/C0359538-Moso_bamboo_Phyllostachys_edulis_.jpg"
+	},
+	{
+		"name": "pistacia_lentiscus",
+		"description": "Pistacia lentiscus (also lentisk; mastic; Greek: μαστίχα mastíkha ) is a dioecious evergreen shrub or small tree of the genus Pistacia, growing up to 4 m (13 ft) tall which is cultivated for its aromatic resin, mainly on the Greek island of Chios.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pistacia_lentiscus.jpg/330px-Pistacia_lentiscus.jpg"
+	},
+	{
+		"name": "pistacia_terebinthus",
+		"description": "Pistacia terebinthus, known commonly as terebinth and turpentine tree, is a species of Pistacia, native to Iran, and the Mediterranean region from the western regions of Morocco, and Portugal to Greece, western and southeast Turkey. At one time Pistacia palaestina, growing on the eastern shores of the Mediterranean Sea (in Syria and Lebanon) was regarded as a separate species, but it is now considered to be a synonym of P. terebinthus. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pistacia_palaestina.JPG/330px-Pistacia_palaestina.JPG"
+	},
+	{
+		"name": "pittosporum_tobira_aitf",
+		"description": "Pittosporum tobira is a species of flowering plant in the pittosporum family Pittosporaceae known by several common names, including Australian laurel, Japanese pittosporum, mock orange and Japanese cheesewood. It is native to Japan, China, and Korea, but it is used throughout the world as an ornamental plant in landscaping and as cut foliage.",
+		"image": "http://www.plantmaster.com/PlantMaster/FullSize/24472a.jpg"
+	},
+	{
+		"name": "platanus_x",
+		"description": "Platanus × acerifolia, the London plane, London planetree, or hybrid plane, is a tree in the genus Platanus. It is often known by the synonym Platanus × hispanica. It is usually thought to be a hybrid of Platanus orientalis (oriental plane) and Platanus occidentalis (American sycamore). Some authorities think that it may be a cultivar of P. orientalis.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Batalha.Platanus_x_hispanicus01.jpg/330px-Batalha.Platanus_x_hispanicus01.jpg"
+	},
+	{
+		"name": "podocarpus_macrophyllus_sweet",
+		"description": "Podocarpus macrophyllus is a conifer in the genus Podocarpus, family Podocarpaceae. It is the northernmost species of the genus, native to southern Japan and southern and eastern China. Common names in English include yew plum pine, Buddhist pine and fern pine. Kusamaki (クサマキ) and inumaki (犬槇) are Japanese names for this tree. In China, it is known as 羅漢松 or luóhàn sōng, which literally means 'arhat pine'.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Podocarpus_macrophyllus.jpg"
+	},
+	{
+		"name": "populus",
+		"description": "Populus is a genus of 25–35 species of deciduous flowering plants in the family Salicaceae, native to most of the Northern Hemisphere. English names variously applied to different species include poplar /ˈpɒp.lər/, aspen, and cottonwood.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lapo_gyslos.jpeg"
+	},
+	{
+		"name": "populus_canadensis_moench",
+		"description": "Populus × canadensis, known as Canadian poplar or Carolina poplar, is a naturally occurring hybrid of Populus nigra and Populus deltoides. It is commonly used by landscape architects. Cultivars include ‘Robusta’ and ‘Aurea’ (golden poplar or golden Carolina poplar), which has won the Royal Horticultural Society’s Award of Garden Merit.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Populier_Populus_canadensis.jpg"
+	},
+	{
+		"name": "populus_tremula",
+		"description": "Populus tremula, commonly called aspen, common aspen, Eurasian aspen, European aspen, or quaking aspen, is a species of poplar native to cool temperate regions of Europe and Asia, from Iceland and the British Isles east to Kamchatka, north to inside the Arctic Circle in Scandinavia and northern Russia, and south to central Spain, Turkey, the Tian Shan, North Korea, and northern Japan. It also occurs at one site in northwest Africa in Algeria. In the south of its range, it occurs at high altitudes in mountains.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/PopulusTremula001.JPG"
+	},
+	{
+		"name": "prunus_mahaleb",
+		"description": "Prunus mahaleb, the mahaleb cherry or St Lucie cherry, is a species of cherry tree. The tree is cultivated for a spice obtained from the seeds inside the cherry stones. The seeds have a fragrant smell and have a taste comparable to bitter almonds with cherry notes. The tree is native in the Mediterranean region, Iran and parts of central Asia.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Prunus_mahaleb2.jpg/330px-Prunus_mahaleb2.jpg"
+	},
+	{
+		"name": "prunus_persica_batsch",
+		"description": "The peach (Prunus persica) is a deciduous tree native to the region of Northwest China between the Tarim Basin and the north slopes of the Kunlun Mountains, where it was first domesticated and cultivated. It bears an edible juicy fruit called a peach or a nectarine.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Illustration_Prunus_persica0.jpg"
+	},
+	{
+		"name": "prunus_serotina",
+		"description": "Prunus serotina, commonly called black cherry, wild black cherry, rum cherry, or mountain black cherry, is a deciduous tree or shrub belonging to the genus Prunus. The species is widespread and common in North America and South America. Black cherry is closely related to the chokecherry (Prunus virginiana); chokecherry, however, tends to be shorter (a shrub or small tree) and has smaller, less glossy leaves. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Amerikaanse_vogelkers_Prunus_serotina_closeup.jpg/330px-Amerikaanse_vogelkers_Prunus_serotina_closeup.jpg"
+	},
+	{
+		"name": "prunus_serrulata_lindl_var_lannesiana_auct",
+		"description": "Prunus serrulata or Japanese cherry, also called hill cherry, oriental cherry or East Asian cherry, is a species of cherry native to China, Japan, Korea, and India, and is used for its spring cherry blossom displays and festivals. Current sources consider it to be part of a species complex with P. jamasakura and P. leveilleana, which have been reduced to synonyms.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/M%C3%BCnster%2C_Park_Sentmaring_--_2016_--_1767.jpg"
+	},
+	{
+		"name": "prunus_spinosa",
+		"description": "Prunus spinosa, called blackthorn or sloe, is a species of flowering plant in the rose family Rosaceae. It is native to Europe, western Asia, and locally in northwest Africa. It is also locally naturalised in New Zealand, Tasmania and eastern North America. The fruits have been used to make sloe gin in Britain, and the wood used for making walking sticks or the shillelagh by the Irish. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Closeup_of_blackthorn_aka_sloe_aka_prunus_spinosa_sweden_20050924.jpg/330px-Closeup_of_blackthorn_aka_sloe_aka_prunus_spinosa_sweden_20050924.jpg"
+	},
+	{
+		"name": "punica_granatum",
+		"description": "The pomegranate (Punica granatum) is a fruit-bearing deciduous shrub in the family Lythraceae, subfamily Punicoideae, that grows between 5 and 10 m (16 and 33 ft) tall. The pomegranate originated in the region extending from Iran to northern India, and has been cultivated since ancient times throughout the Mediterranean region.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Punica.granatum%2801%29.jpg/255px-Punica.granatum%2801%29.jpg"
+	},
+	{
+		"name": "quercus",
+		"description": "Quercus robur, commonly known as common oak, pedunculate oak, European oak or English oak, is a species of flowering plant in the beech and oak family, Fagaceae. It is native to most of Europe west of the Caucasus. The tree is widely cultivated in temperate regions and has escaped into the wild in scattered parts of China and North America.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Quercus_robur.jpg/330px-Quercus_robur.jpg"
+	},
+	{
+		"name": "quercus_coccifera",
+		"description": "Quercus coccifera, the kermes oak, is an oak tree in the Quercus section Cerris. It is native to the Mediterranean region and Northern African Maghreb, south to north from Morocco to France and west to east from Portugal to Cyprus and Turkey, crossing Spain, Italy, Libya, Balkans, and Greece, including Crete.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Quercus_coccifera.jpg/330px-Quercus_coccifera.jpg"
+	},
+	{
+		"name": "quercus_ilex",
+		"description": "Quercus ilex, the evergreen oak, holly oak or holm oak, is a large evergreen oak native to the Mediterranean region. It takes its name from holm, an ancient name for holly. It is a member of the Cerris section of the genus, with acorns that mature in a single summer. The first trees to be grown from acorns in England are still to be found within the stately grounds of Mamhead Park, Devon.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Quercus_ilex_rotundifolia.jpg/330px-Quercus_ilex_rotundifolia.jpg"
+	},
+	{
+		"name": "quercus_petraea",
+		"description": "Quercus petraea, commonly known as the sessile oak, Cornish oak, or durmast oak, is a species of oak tree native to most of Europe and into Anatolia and Iran. The sessile oak is the national tree of the Republic of Ireland, and an unofficial emblem in Wales and Cornwall.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Quercus_petraea_06.jpg/330px-Quercus_petraea_06.jpg"
+	},
+	{
+		"name": "quercus_pubescens",
+		"description": "Quercus pubescens, the downy oak or pubescent oak, is a species of white oak (genus Quercus sect. Quercus) native to southern Europe and southwest Asia, from northern Spain (Pyrenees) east to the Crimea and the Caucasus. It is also found in France and parts of central Europe. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Quercus_pubescens_1.jpg/330px-Quercus_pubescens_1.jpg"
+	},
+	{
+		"name": "rhamnus_alaternus",
+		"description": "Rhamnus alaternus is a species of flowering plant in the buckthorn family known by the common name of Italian buckthorn or Mediterranean buckthorn. Rhamnus alaternus is an evergreen shrub 1–5 metres (3 ft 3 in–16 ft 5 in) high. The stems have reddish bark and pubescent young branches, rounded and compact foliage with alternating leaves, 2–6 centimetres (0.79–2.36 in) long,",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rhamnus_alaternus_%288692911406%29.jpg/330px-Rhamnus_alaternus_%288692911406%29.jpg"
+	},
+	{
+		"name": "rhamnus_cathartica",
+		"description": "Rhamnus cathartica, the buckthorn, common buckthorn, or purging buckthorn, is a species of small tree in the flowering plant family Rhamnaceae. It is native to Europe, northwest Africa and western Asia, from the central British Isles south to Morocco, and east to Kyrgyzstan.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Illustration_of_Rhamnus_catharticus_63-cropped.png/330px-Illustration_of_Rhamnus_catharticus_63-cropped.png"
+	},
+	{
+		"name": "rhus_typhina",
+		"description": "Rhus typhina, the staghorn sumac, is a species of flowering plant in the family Anacardiaceae, native to eastern North America. It is primarily found in southeastern Canada, the northeastern and midwestern United States and the Appalachian Mountains, but is widely cultivated as an ornamental throughout the temperate world. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rhty_002_lhp.jpg/330px-Rhty_002_lhp.jpg"
+	},
+	{
+		"name": "robinia_pseudoacacia",
+		"description": "Robinia pseudoacacia, commonly known in its native territory as black locust, is a medium-sized hardwood deciduous tree, belonging to the tribe Robinieae. It is endemic to a few small areas of the United States, but it has been widely planted and naturalized elsewhere in temperate North America, Europe, Southern Africa and Asia and is considered an invasive species in some areas.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Robina9146.JPG"
+	},
+	{
+		"name": "salix_alba",
+		"description": "Salix alba, the white willow, is a species of willow native to Europe and western and central Asia. The name derives from the white tone to the undersides of the leaves.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Salix_alba_leaves.jpg/330px-Salix_alba_leaves.jpg"
+	},
+	{
+		"name": "salix_aurita",
+		"description": "Salix aurita, the eared willow, is a species of willow distributed over much of Europe, and occasionally cultivated. It is a shrub to 2.5 m in height, distinguished from the similar but slightly larger Salix cinerea by its reddish petioles and young twigs. It was named for its persistent kidney-shaped stipules along the shoots.",
+		"image": "https://www.discoverlife.org/IM/I_MWS/0616/640/Salix_aurita,I_MWS61681.jpg"
+	},
+	{
+		"name": "salix_caprea",
+		"description": "Salix caprea (goat willow, also known as the pussy willow or great sallow) is a common species of willow native to Europe and western and central Asia. It is a deciduous shrub or small tree, reaching a height of 8–10 m (26–33 ft), rarely to 13 m. The leaves are 3–12 cm long and from 2–8 cm wide, broader than most other willows.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Salix_caprea8.jpg/330px-Salix_caprea8.jpg"
+	},
+	{
+		"name": "salix_sinerea",
+		"description": "Salix cinerea is a species of willow native to Europe and western Asia. The plant provides a great deal of nectar for pollinators. It was rated in the top 10, with a ranking of second place, for most nectar production (nectar per unit cover per year) in a UK plants survey conducted by the AgriLand project which is supported by the UK Insect Pollinators Initiative.",
+		"image": "https://keyserver.lucidcentral.org/weeds/data/media/Images/salix_cinerea/salixcinerea2tj.jpg"
+	},
+	{
+		"name": "sambucus_nigra",
+		"description": "Sambucus nigra is a species complex of flowering plants in the family Adoxaceae native to most of Europe and North America. Common names include elder, elderberry, black elder, European elder, European elderberry, and European black elderberry. It grows in a variety of conditions including both wet and dry fertile soils, primarily in sunny locations.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sambucus_nigra_004.jpg/330px-Sambucus_nigra_004.jpg"
+	},
+	{
+		"name": "sophora_japonica",
+		"description": "Styphnolobium japonicum (L.) Schott, the Japanese pagoda tree (Chinese scholar tree, pagoda tree; syn. Sophora japonica) is a species of tree in the subfamily Faboideae of the pea family Fabaceae. It was formerly included within a broader interpretation of the genus Sophora.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sophora_japonica_JPG2Aa.jpg/330px-Sophora_japonica_JPG2Aa.jpg"
+	},
+	{
+		"name": "sorbus_aria",
+		"description": "Sorbus aria (syn. Aria nivea), the whitebeam or common whitebeam, is a European and Near-Eastern deciduous tree, the type species of the subgenus of the whitebeams. Typically compact and domed, with few upswept branches and almost-white underside of the leaves. It generally favours dry limestone and chalk soils.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sorbus_aria-3420.jpg/330px-Sorbus_aria-3420.jpg"
+	},
+	{
+		"name": "sorbus_aucuparia",
+		"description": "Sorbus aucuparia,  is a species of deciduous tree or shrub in the rose family. It is a highly variable species, and botanists have used different definitions of the species to include or exclude trees native to certain areas; a recent definition includes trees native to most of Europe and parts of Asia, as well as northern Africa. The range extends from Madeira and Iceland to Russia and northern China. Unlike many plants with similar distributions, it is not native to Japan.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sorbus_aucuparia_leaves_02_by_Line1.jpg"
+	},
+	{
+		"name": "sorbus_domestica",
+		"description": "Sorbus domestica, with the common name service tree or sorb tree (because of its fruit), is a species of Sorbus native to western, central and southern Europe, northwest Africa (Atlas Mountains), and southwest Asia (east to the Caucasus). It may be called true service tree, to distinguish it from wild service tree Sorbus torminalis. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG/330px-Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG"
+	},
+	{
+		"name": "sorbus_intermedia",
+		"description": "Sorbus intermedia, the Swedish whitebeam, is a species of whitebeam found in southern Sweden, with scattered occurrences in easternmost Denmark (Bornholm), the far southwest of Finland, Estonia, Latvia and northern Poland.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Zweedse_lijsterbes_27-08-2005_15.29.26.JPG/330px-Zweedse_lijsterbes_27-08-2005_15.29.26.JPG"
+	},
+	{
+		"name": "sorbus_torminalis",
+		"description": "Sorbus torminalis, with common names wild service tree, chequers, and checker tree, is a species of tree in the mountain ash or rowan genus (Sorbus) of the rose family (Rosaceae), that is native to Europe, parts of northern Africa and western Asia. It is a medium-sized deciduous tree growing to 15–25 m (50–80 ft) tall, with a trunk up to 1.3 m (4 ft 3 in) in diameter.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sorbus_torminalis_Full_tree.jpg/330px-Sorbus_torminalis_Full_tree.jpg"
+	},
+	{
+		"name": "syringa_vulgaris",
+		"description": "Syringa vulgaris (lilac or common lilac) is a species of flowering plant in the olive family Oleaceae, native to the Balkan Peninsula, where it grows on rocky hills. Grown for its scented pink flowers in spring, this large shrub or small tree is widely cultivated and has been naturalized in parts of Europe and North America.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lilac_Flower%26Leaves%2C_SC%2C_Vic%2C_13.10.2007.jpg/330px-Lilac_Flower%26Leaves%2C_SC%2C_Vic%2C_13.10.2007.jpg"
+	},
+	{
+		"name": "tilia",
+		"description": "Tilia is a genus of about 30 species of trees or bushes, native throughout most of the temperate Northern Hemisphere. In the British Isles, they are commonly called lime trees, or lime bushes, although they are not closely related to the tree that produces the lime fruit. Other names include linden for the European species, and basswood for North American species.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tilia_x_europea-2.JPG/1024px-Tilia_x_europea-2.JPG"
+	},
+	{
+		"name": "tilia_cordata",
+		"description": "Tilia cordata (small-leaved lime, occasionally littleleaf linden[1] or small-leaved linden) is a species of Tilia native to much of Europe. It is found from Britain through mainland Europe to the Caucasus and western Asia. In the south of its range it is restricted to high elevations. Tilia cordata is a deciduous tree growing to 20–40 m (66–131 ft) tall, diameter 1/3 to 1/2 the height, with a trunk up to 1 m diameter. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tilia-cordata2.JPG/330px-Tilia-cordata2.JPG"
+	},
+	{
+		"name": "tonna_sinensis",
+		"description": "Toona sinensis, with common names Chinese mahogany, Chinese toon, or red toon is a species of Toona native to eastern and southeastern Asia, from North Korea south through most of eastern, central and southwestern China to Nepal, northeastern India, Myanmar, Thailand, Malaysia, and western Indonesia.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Toona_sinensis.jpg"
+	},
+	{
+		"name": "ulmus_carpinifolia",
+		"description": "Susceptible to Dutch elm disease and elm leaf beetles; rarely offered in the nursery trade",
+		"image": "http://secrets-of-self-sufficiency.com/wp-content/uploads/2011/08/Smooth-leaved-Elm-Ulmus-carpinifolia.jpg"
+	},
+	{
+		"name": "ulmus_glabra",
+		"description": "Ulmus glabra, the wych elm, Scotch elm or Scots elm, has the widest range of the European elm species, from Ireland eastwards to the Urals, and from the Arctic Circle south to the mountains of the Peloponnese in Greece; it is also found in Iran. A large, deciduous tree, it is essentially a montane species, growing at elevations of up to 1500 m, preferring sites with moist soils and high humidity.",
+		"image": "https://www.natureplprints.com/p/729/fresh-wych-elm-ulmus-glabra-leaves-spring-dorset-15316587.jpg"
+	},
+	{
+		"name": "viburnum_awabuki_k_koch",
+		"description": "Viburnum is a genus of about 150–175 species of flowering plants in the moschatel family Adoxaceae. Its current classification is based on molecular phylogeny. The leaves are opposite, simple, and entire, toothed or lobed; cool temperate species are deciduous, while most of the warm temperate species are evergreen. Some species are densely hairy on the shoots and leaves, with star-shaped hairs.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Viburnum_odoratissimum_2zz.jpg"
+	},
+	{
+		"name": "viburnum_lantana",
+		"description": "Viburnum lantana, the wayfarer or wayfaring tree, is a species of Viburnum, native to central, southern and western Europe (north to Yorkshire in England), northwest Africa, and southwestern Asia. The vigorous deciduous European treelike shrub is common along waysides. ",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Viburnum_lantana_a1.jpg/330px-Viburnum_lantana_a1.jpg"
+	},
+	{
+		"name": "viburnum_tinus",
+		"description": "Viburnum tinus (laurustinus or laurustine) is a species of flowering plant in the family Adoxaceae, native to the Mediterranean area of Europe and North Africa. Laurus signifies the leaves' similarities to bay laurel. It is a shrub (rarely a small tree) reaching 2–7 m (7–23 ft) tall and 3 m (10 ft) broad, with a dense, rounded crown.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Viburnum_February_2008-1.jpg/330px-Viburnum_February_2008-1.jpg"
+	},
+	{
+		"name": "vitex_agnus_castus",
+		"description": "Vitex agnus-castus, also called vitex, chaste tree (or chastetree), chasteberry, Abraham's balm, lilac chastetree, or monk's pepper, is a native of the Mediterranean region. It is one of the few temperate-zone species of Vitex, which is on the whole a genus of tropical and sub-tropical flowering plants.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Vitex_agnus-castus_1.JPG/330px-Vitex_agnus-castus_1.JPG"
+	}
+]

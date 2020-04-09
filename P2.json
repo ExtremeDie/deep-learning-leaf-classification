@@ -1,0 +1,62 @@
+[
+    {
+        "name": "citrus_reticulata_blanco",
+        "description": "Citrus reticulata blanco is also known as mandarin orange or tangerine. Raw fruits cooked in puddings, cakes, confectionery etc. It is sweet and delicious. A thin-skinned fruit with a very pleasant, acidic-sweet flavour. ",
+        "image": "https://indiabiodiversity.org/biodiv/observations//f9e7efa6-4780-4151-bae2-f12a64a6b48c/773.JPG"
+    },
+    {
+        "name": "fagus_sylvatica",
+        "description": "Fagus sylvatica is a large tree, and the nuts are eaten by humans and animals. Slightly toxic to humans if eaten in large quantities due to the tannins and alkaloids they contain.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/European_Beech.jpg"
+    },
+    {
+        "name": "ginkgo_biloba_l",
+        "description": "Ginkgo biloba L., also popularly known as living fossil, possesses a variety of biological and pharmacological activities. The leaf extract of G. biloba L. (EGb 761) has been used for years to treat age-related memory-deficit problems, including Alzheimer's and dementia. ",
+        "image": "https://www.ornamental-trees.co.uk/images/ginkgo-biloba-tree-p384-1365_medium.jpg"
+    },
+    {
+        "name": "ilex_macrocarpa_oliv",
+        "description": "A deciduous tree attaining a height of about 50 ft in the wild and nearing that height in cultivation; young shoots green and glabrous. ",
+        "image": "http://dryades.units.it/dryades/plants/foto/TSB78817.jpg"
+    },
+    {
+        "name": "indigofera_tinctoria_l",
+        "description": "Indigofera tinctoria is distributed throughout the tropics and subtropics of Asia, Africa and the Americas; most of the species occur in Africa and the southern Himalayas.",
+        "image": "https://www.plantstoplant.com/Files/71136/Img/20/Indigofera-himalayensis-Silk-Road-2-zoom.jpg"
+    },
+    {
+        "name": "kalopanax_septemlobus_koidz",
+        "description": "Kalopanax septemlobus koidz is cultivated as an ornamental tree for the tropical appearance of its large palmate leaves in Europe and North America; despite its tropical looks, it is very hardy, tolerating temperatures down to at least −40 °C (−40 °F). ",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Kalopanax-pictus-leaves2.JPG"
+    },
+    {
+        "name": "koelreuteria_paniculata_laxmi",
+        "description": "Koelreuteria paniculata is a medium sized, deciduous tree which despite its common name is native to Eastern Asia. It is tolerant of a lot of urban conditions and also is good on calcareous soil.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Leafage_of_Koelreuteria_paniculata.JPG/800px-Leafage_of_Koelreuteria_paniculata.JPG"
+    },
+    {
+        "name": "lagerstroemia_indica_pers",
+        "description": "Lagerstroemia indica is a species in the genus Lagerstroemia in the family Lythraceae, which is native to the Indian Subcontinent (hence the name indica), and also to Southeast Asia, China, Korea and Japan. ",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2015-11-08_09_37_47_Crape_Myrtle_foliage_during_autumn_along_Old_Ox_Road_%28Virginia_Secondary_State_Route_606%29_in_Sterling%2C_Virginia.jpg/1280px-2015-11-08_09_37_47_Crape_Myrtle_foliage_during_autumn_along_Old_Ox_Road_%28Virginia_Secondary_State_Route_606%29_in_Sterling%2C_Virginia.jpg"
+    },
+    {
+        "name": "ligustrum_lucidum_ait_f",
+        "description": "Ligustrum lucidum Ait. f it is an ornamental species commonly grown throuhout the city’s green areas.",
+        "image": "https://www.cabi.org/isc/portfolio/compendia/normal/6668.img"
+    },
+    {
+        "name": "liriodendron_chinense_sarg",
+        "description": "Liriodendron chinense is very similar to the American species, Liriodendron tulipifera, differing in the often slightly larger and more deeply lobed leaves, and in the shorter inner petals in the flowers, which lack the orange pigment of L. tulipifera. The Chinese tulip tree reaches about 40 metres (130 ft) tall.[3] Most of its populations are deciduous, with a semi-evergreen population identified at Mengla, Yunnan.",
+        "image": "https://plants.usda.gov/gallery/large/lich6_001_lhp.jpg"
+    },
+    {
+        "name": "magnolia_grandiflora_l",
+        "description": "Magnolia grandiflora, commonly known as the southern magnolia or bull bay, is a tree of the family Magnoliaceae native to the southeastern United States, from southeastern North Carolina to central Florida, and west to East Texas. ",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Magnolia_flower_Duke_campus.jpg/1920px-Magnolia_flower_Duke_campus.jpg"
+    },
+    {
+        "name": "mahonia_bealei_carr",
+        "description": "Mahonia bealei (Beale's barberry)[4] is a shrub native to mainland China. The species has sometimes been regarded as the same species as Mahonia japonica, native to Taiwan, but the two differ consistently in certain floral and leaf characters. ",
+        "image": "http://web03.bruns.de/static/images/info/1200Wx1200H/Mahonia_bealei_2003_0899_b.jpeg"
+    }
+]

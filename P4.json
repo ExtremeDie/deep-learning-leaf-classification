@@ -1,0 +1,58 @@
+[
+    {
+        "name": "quercus",
+        "description":"Quercus robur, commonly known as common oak, pedunculate oak, European oak or English oak, is a species of flowering plant in the beech and oak family, Fagaceae. It is native to most of Europe west of the Caucasus. The tree is widely cultivated in temperate regions and has escaped into the wild in scattered parts of China and North America.",
+        "image": "https://www.woodlandtrust.org.uk/media/100751400/oak-leaf-paul-sterry-NPL.jpg?cb=-243516786&preset=gallery-tab-main-image"
+    },
+    {
+        "name": "salix_alba",
+        "description":"Salix alba, the white willow, is a species of willow native to Europe and western and central Asia. The name derives from the white tone to the undersides of the leaves.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Salix_alba_leaves.jpg/330px-Salix_alba_leaves.jpg"
+    },
+    {
+        "name": "salix_aurita",
+        "description":"Salix aurita, the eared willow, is a species of willow distributed over much of Europe, and occasionally cultivated. It is a shrub to 2.5 m in height, distinguished from the similar but slightly larger Salix cinerea by its reddish petioles and young twigs. It was named for its persistent kidney-shaped stipules along the shoots.",
+        "image": "https://www.discoverlife.org/IM/I_MWS/0616/640/Salix_aurita,I_MWS61681.jpg"
+    },
+    {
+        "name": "salix_sinerea",
+        "description":"Salix cinerea is a species of willow native to Europe and western Asia. The plant provides a great deal of nectar for pollinators. It was rated in the top 10, with a ranking of second place, for most nectar production (nectar per unit cover per year) in a UK plants survey conducted by the AgriLand project which is supported by the UK Insect Pollinators Initiative.",
+        "image": "https://keyserver.lucidcentral.org/weeds/data/media/Images/salix_cinerea/salixcinerea2tj.jpg"
+    },
+    {
+        "name": "sorbus_aucuparia",
+        "description":"Sorbus aucuparia,  is a species of deciduous tree or shrub in the rose family. It is a highly variable species, and botanists have used different definitions of the species to include or exclude trees native to certain areas; a recent definition includes trees native to most of Europe and parts of Asia, as well as northern Africa. The range extends from Madeira and Iceland to Russia and northern China. Unlike many plants with similar distributions, it is not native to Japan.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sorbus_aucuparia_leaves_02_by_Line1.jpg"
+    },
+    {
+        "name": "sorbus_intermedia",
+        "description":"Sorbus intermedia, the Swedish whitebeam, is a species of whitebeam found in southern Sweden, with scattered occurrences in easternmost Denmark (Bornholm), the far southwest of Finland, Estonia, Latvia and northern Poland.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Zweedse_lijsterbes_27-08-2005_15.29.26.JPG/330px-Zweedse_lijsterbes_27-08-2005_15.29.26.JPG"
+    },
+    {
+        "name": "tilia",
+        "description":"Tilia is a genus of about 30 species of trees or bushes, native throughout most of the temperate Northern Hemisphere. In the British Isles, they are commonly called lime trees, or lime bushes, although they are not closely related to the tree that produces the lime fruit. Other names include linden for the European species, and basswood for North American species.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tilia_x_europea-2.JPG/1024px-Tilia_x_europea-2.JPG"
+    },
+    {
+        "name": "tonna_sinensis",
+        "description":"Toona sinensis, with common names Chinese mahogany, Chinese toon, or red toon is a species of Toona native to eastern and southeastern Asia, from North Korea south through most of eastern, central and southwestern China to Nepal, northeastern India, Myanmar, Thailand, Malaysia, and western Indonesia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Toona_sinensis.jpg"
+    },
+    {
+        "name": "ulmus_carpinifolia",
+        "description":"Susceptible to Dutch elm disease and elm leaf beetles; rarely offered in the nursery trade",
+        "image": "http://secrets-of-self-sufficiency.com/wp-content/uploads/2011/08/Smooth-leaved-Elm-Ulmus-carpinifolia.jpg"
+    },
+    {
+        "name": "ulmus_glabra",
+        "description":"Ulmus glabra, the wych elm, Scotch elm or Scots elm, has the widest range of the European elm species, from Ireland eastwards to the Urals, and from the Arctic Circle south to the mountains of the Peloponnese in Greece; it is also found in Iran. A large, deciduous tree, it is essentially a montane species, growing at elevations of up to 1500 m, preferring sites with moist soils and high humidity.",
+        "image": "https://www.natureplprints.com/p/729/fresh-wych-elm-ulmus-glabra-leaves-spring-dorset-15316587.jpg"
+    },
+    {
+        "name": "viburnum_awabuki_k_koch",
+        "description":"Viburnum is a genus of about 150–175 species of flowering plants in the moschatel family Adoxaceae. Its current classification is based on molecular phylogeny. The leaves are opposite, simple, and entire, toothed or lobed; cool temperate species are deciduous, while most of the warm temperate species are evergreen. Some species are densely hairy on the shoots and leaves, with star-shaped hairs.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Viburnum_odoratissimum_2zz.jpg"
+    }
+    
+]
